@@ -9,8 +9,6 @@
 
 ## Cryptography
 
-### Writeups <a name="cryptography-writeups"></a>
-
 ### Readings <a name="cryptography-readings"></a>
 
 [Crypto 101](https://www.crypto101.io/) - 254 page book on basics of cryptography including block ciphers, stream ciphers, key exchange, public-key encryption, hash functions, message authentication codes, signature algorithms, key derivation functions, random number generators, SSL & TLS, OpenPGP & GPG
