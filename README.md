@@ -7,8 +7,10 @@
 - [Web](#web)
     - [Cheatsheets](#web-cheatsheets)
     - [Readings](#web-readings)
-- [Misc](#misc)
-    - [Challenges](#misc-challs)
+- [Pentesting](#pentesting)
+    - [Cheatsheets](#pentesting-cheatsheets)
+    - [Readings](#pentesting-readings)
+    - [Challenges](#pentesting-challs)
 
 ## Cryptography
 
@@ -48,8 +50,28 @@
 
 [Exotic HTTP Headers](https://peteris.rocks/blog/exotic-http-headers/) - Blog post about non-typical HTTP headers
 
-## Misc <a name="misc"></a>
+## Pentesting <a name="pentesting"></a>
 
-#### Challenges <a name="misc-challs"></a>
+#### Cheatsheets <a name="pentesting-cheatsheets"></a>
+
+[DNS Recon](https://github.com/nixawk/pentest-wiki/blob/master/1.Information-Gathering/How-to-gather-dns-information.md)
+
+[Hausec's Pentesting Cheatsheet](https://hausec.com/pentesting-cheatsheet/#_Toc475368977)
+
+[HighOn.Coffee Pentesting Tools Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+
+[Netcat Cheatsheet](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
+
+[Metasploit Cheatsheet](https://raw.githubusercontent.com/coreb1t/awesome-pentest-cheat-sheets/master/docs/Metasploit-CheatSheet.png)
+
+[g0tmi1k's Linux Privesc Guide](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+
+#### Readings <a name="pentesting-readings"></a>
+
+[IppSec (Youtube)](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) - HTB video writeups
+
+[0xRick (Blog)](https://0xrick.github.io/) - HTB writeups
+
+#### Challenges <a name="pentesting-challs"></a>
 
 [Hack The Box Pen-Testing Labs](https://www.hackthebox.eu/) - boot2root style challenges
