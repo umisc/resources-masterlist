@@ -1,6 +1,7 @@
 # Infosec Resources
 
 - [Cryptography](#cryptography)
+    - [Cheatsheets](#cryptography-cheatsheets)
     - [Readings](#cryptography-readings)
     - [Challenges](#cryptography-challenges)
     - [Tools](#cryptography-tools)
@@ -14,6 +15,10 @@
 
 ## Cryptography
 
+#### Cheatsheets <a name="cryptography-cheatsheets"></a>
+
+[Number Theory operations in Sage](https://faculty.washington.edu/moishe/hanoiex/Number%20Theory%20Applications/Number%20Theory%20Applications/Number%20Theory.htm) - Some common number theory operations in [SageMath](http://www.sagemath.org/) with explained examples.
+
 #### Readings <a name="cryptography-readings"></a>
 
 [Crypto 101](https://www.crypto101.io/) - 254 page book on basics of cryptography including block ciphers, stream ciphers, key exchange, public-key encryption, hash functions, message authentication codes, signature algorithms, key derivation functions, random number generators, SSL & TLS, OpenPGP & GPG
@@ -23,6 +28,8 @@
 [Cryptography: An Introduction - Nigel Smart](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf) - ~430 page book on both symmetric and asymmetric encryption with chapters on security issues and more advanced protocols
 
 [Twenty Years of Attacks on the RSA Cryptosystem - Dan Boneh](https://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf) - A survey that goes through multiple vulnerabilities with RSA (with mathematical proofs)
+
+[Elliptic Curve Cryptography: a gentle introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/) - A good introduction to ECC and the basics of the mathematics behind it.
 
 #### Challenges <a name="cryptography-challenges"></a>
 
@@ -35,6 +42,8 @@
 [factordb](http://factordb.com/) - A tool used to store known factorisations for numbers
 
 [Alpertron Integer factorisation calculator](https://www.alpertron.com.ar/ECM.HTM) - Web assembly implementation of the Elliptic Curve Method and Self-Initializing Quadratic Sieve for factorising integers
+
+[SageMath](http://www.sagemath.org/) - Python-based mathematics software system built on top of various scientific python packages.
 
 ## Web
 
