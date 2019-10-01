@@ -75,6 +75,10 @@
 
 [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve) - GUI tool that automatically applies colour filters on images
 
+[Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/) - View metadata of files (mostly works with image files)
+
+[Binwalk](https://github.com/ReFirmLabs/binwalk) - Searches binary files for embedded files and data
+
 ## Pentesting <a name="pentesting"></a>
 
 #### Cheatsheets <a name="pentesting-cheatsheets"></a>
