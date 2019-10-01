@@ -8,6 +8,8 @@
 - [Web](#web)
     - [Cheatsheets](#web-cheatsheets)
     - [Readings](#web-readings)
+- [Steganography](#steganography)
+    - [Tools](#steganography-tools)
 - [Pentesting](#pentesting)
     - [Cheatsheets](#pentesting-cheatsheets)
     - [Readings](#pentesting-readings)
@@ -58,6 +60,16 @@
 [OWASP Top 10 - 2017](https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf) - The ten most critical web application security risks
 
 [Exotic HTTP Headers](https://peteris.rocks/blog/exotic-http-headers/) - Blog post about non-typical HTTP headers
+
+## Steganography <a name="steganography"></a>
+
+#### Tools <a name="steganography-tools"></a>
+
+[Sonic Visualiser](https://www.sonicvisualiser.org/) - View and analyse the contents of audio files
+
+[Audacity](https://www.audacityteam.org/) - Multi-track audio editor with various filters and effects
+
+[Online Image Stego Tool](http://stylesuxx.github.io/steganography/) - Online tool that can occasionaly extract hidden data in image files
 
 ## Pentesting <a name="pentesting"></a>
 
