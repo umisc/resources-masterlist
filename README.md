@@ -71,6 +71,10 @@
 
 [Online Image Stego Tool](http://stylesuxx.github.io/steganography/) - Online tool that can occasionaly extract hidden data in image files
 
+[Steghide](https://github.com/StefanoDeVuono/steghide) - Extracts data from image and audio files (`jpeg`, `bmp`, `wav` `au`)
+
+[Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve) - GUI tool that automatically applies colour filters on images
+
 ## Pentesting <a name="pentesting"></a>
 
 #### Cheatsheets <a name="pentesting-cheatsheets"></a>
